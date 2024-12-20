@@ -59,11 +59,7 @@ class _HomePageState extends State<HomePage> {
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
                   Expanded(
-                    child: Container(
-                        // alignment: Alignment.center,
-                        // color: Colors.red,
-                        // child: const Text('Primeira Coluna'),
-                        ),
+                    child: Container(),
                   ),
                   Expanded(
                     flex: 2,
@@ -88,11 +84,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                   Expanded(
-                    child: Container(
-                        // alignment: Alignment.center,
-                        // color: Colors.red,
-                        // child: const Text('Terceira Coluna'),
-                        ),
+                    child: Container(),
                   ),
                 ],
               ),
@@ -101,7 +93,6 @@ class _HomePageState extends State<HomePage> {
               flex: 2,
               child: Container(
                 alignment: Alignment.center,
-                //color: Colors.blue,
                 child: const Text('Layout 2'),
               ),
             ),
