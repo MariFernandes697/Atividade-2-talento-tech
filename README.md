@@ -1,6 +1,6 @@
-# myapp
+# Atividade 2 Talento Tech
 
-A new Flutter project.
+Projeto de página web com layout responsivo com Flutter.
 
 ## Getting Started
 
