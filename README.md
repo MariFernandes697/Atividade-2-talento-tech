@@ -2,15 +2,11 @@
 
 Projeto de página web com layout responsivo com Flutter.
 
-## Getting Started
+## Começando
+Este projeto é um ponto de partida para uma aplicação Flutter.
 
-This project is a starting point for a Flutter application.
+Alguns recursos para você começar se este é o seu primeiro projeto Flutter:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Laboratório: Escreva seu primeiro aplicativo Flutter
+Receitas: Exemplos úteis de Flutter
+Para obter ajuda para começar com o desenvolvimento Flutter, consulte a documentação online, que oferece tutoriais, amostras, orientações sobre desenvolvimento móvel e uma referência completa da API.
